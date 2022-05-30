@@ -1225,7 +1225,7 @@ pre[class*="language-"] {
 }
 
 .token.property {
-    color: #2e3237!important;
+    color: #feefff!important;
 }
 
 .token.pseudo-class {
@@ -1237,11 +1237,11 @@ pre[class*="language-"] {
 }
 
 .token.punctuation {
-    color: #2e3237!important;
+    color: #feefff!important;
 }
 
 .token.selector {
-    color: #2e3237!important;
+    color: #feefff!important;
 }
 
 .token.string {
@@ -1249,7 +1249,7 @@ pre[class*="language-"] {
 }
 
 .token.tag {
-    color: #2e3237!important;
+    color: #feefff!important;
 }
 
 .notion-root .notion-text .notion-text__content .notion-semantic-string span strong .notion-link,
