@@ -1261,7 +1261,8 @@ pre[class*="language-"] {
     display: inline-flex!important;
     justify-content: center!important;
     transition: var(--transition)!important;
-    background: var(--cta-color-bg)!important;
+    //background: var(--cta-color-bg)!important;
+    background: linear-gradient(104.04deg, rgb(147 187 255) 54.06%, rgb(162 133 255) 100%);
     color: var(--cta-color-text)!important;
     margin: -2px!important;
     box-shadow: rgb(255 208 251 / 15%) -2px 5px 10px;
