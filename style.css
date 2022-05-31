@@ -282,7 +282,7 @@ a:hover {
 }
 
 .notion-semantic-string .notion-link {
-    border-bottom: 1px solid #b8bcc2 !important;
+    border-bottom: 0px solid #b8bcc2 !important;
     color: var(--color-text-default)!important;
 }
 
