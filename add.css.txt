@@ -1,0 +1,24 @@
+:root {
+
+--color-bg-default: #000c25;
+--color-text-default: #feefff;
+--color-border-default: #578cff26;
+--color-bg-gray-light: #1930474d;
+--color-text-gray: #b7b7b7;
+--color-text-default-light: #9bb9ff;
+--color-code-block: #001339 !important;
+--color-primary: #1ca0f1!important;
+--cta-color-bg: #1f2838!important;
+--color-ui-hover-bg: rgb(181 171 255 / 13%)!important;
+
+}
+
+.notion-bookmark
+{
+  box-shadow: rgb(255 139 244 / 11%) -2px 5px 10px;
+  border-radius: 15px;
+}
+
+.notion-bookmark__cover img{
+  border-radius: 15px;
+}
