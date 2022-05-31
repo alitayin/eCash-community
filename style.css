@@ -1264,6 +1264,7 @@ pre[class*="language-"] {
     background: var(--cta-color-bg)!important;
     color: var(--cta-color-text)!important;
     margin: -2px!important;
+    box-shadow: rgb(255 208 251 / 15%) -2px 5px 10px;
 }
 
 .notion-quote.bg-gray,
