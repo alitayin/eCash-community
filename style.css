@@ -2,7 +2,7 @@
     --color-primary: #1ca0f1!important;
     --cta-color-bg: #e4f5fe!important;
     --cta-padding: 12px 22px!important;
-    --cta-border-radius: 50px!important;
+    --cta-border-radius: 48px!important;
     --cta-color-text: #424b55!important;
     --color-text-default: #424b55;
     --callout-border-radius: 20px!important;
@@ -1266,7 +1266,7 @@ pre[class*="language-"] {
     background: linear-gradient(104.04deg, rgb(147 187 255) 54.06%, rgb(162 133 255) 100%);
     color: var(--cta-color-text)!important;
     margin: -2px!important;
-    box-shadow: rgb(255 208 251 / 15%) -2px 5px 10px;
+    box-shadow: rgb(255 185 249 / 25%) -2px 5px 10px, rgb(29 85 124 / 15%) 0px 10px 20px;
 }
 
 .notion-quote.bg-gray,
