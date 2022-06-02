@@ -14,7 +14,7 @@
 
 ### About
 
-This is a custom theme for the ecash community resource indexer，I named it as Deep Sea Pink.
+This is a custom theme for the ecash community resource indexer，I named it as Pink Jellyfish..
 
 
 
