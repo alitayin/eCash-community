@@ -526,6 +526,7 @@ ul>.notion-list-item:before {
 
 .notion-root>.notion-column-list>.notion-column:first-child .notion-page:hover {
     background: var(--color-ui-hover-bg)!important;
+    box-shadow:rgb(255 185 249 / 5%) -2px 5px 10px, rgb(29 85 124 / 11%) 0px 10px 20px;
 }
 
 .notion-root>.notion-column-list>.notion-column:nth-child(2) {
