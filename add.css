@@ -26,3 +26,22 @@
 .notion-bookmark__cover img{
   border-radius: 15px;
 }
+
+//.notion-root>.notion-column-list>.notion-column:nth-child(3) {
+    display: none;
+}
+
+
+.notion-table-of-contents
+{
+    display: none;
+}
+
+//.notion-collection-card{
+box-shadow: rgb(255 139 244 / 11%) -2px 5px 10px;
+transition:all .17s ease-in-out!important;
+border:1px solid var(--color-border-default)!important;
+border-radius: 10px;
+}
+
+
