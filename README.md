@@ -14,7 +14,8 @@
 
 ### About
 
-This is a custom theme for the ecash community resource indexer，I named it as Pink Jellyfish..
+This is a custom theme based on [aether](https://github.com/super-so/) for the ecash community resource indexer..
+ 
 
 
 
