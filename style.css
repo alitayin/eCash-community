@@ -312,7 +312,7 @@ p>span>span>a {
 .notion-root > .notion-column-list > .notion-column > .notion-image.page-width {
     width: 115%!important;
     max-width: 115%!important;
-    margin-left: 115%!important;
+    margin-left: 45%!important;
     -webkit-transform: translateX(-50%)!important;
     -moz-transform: translateX(-50%)!important;
     -ms-transform: translateX(-50%)!important;
